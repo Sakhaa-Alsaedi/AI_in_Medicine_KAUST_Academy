@@ -4,7 +4,8 @@
 
 
 
-| Day | Instructor| TA     |Materials |
+| Day | Instructor| 
+Teaching Assistant     |Materials |
 | :---         |     :---:      |          ---: |      ---: |
 | Day 1  | [Prof. Ricardo Henao](https://www.kaust.edu.sa/en/study/faculty/ricardo-henao)   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)    | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
 | Day 2    | [Prof. Ricardo Henao](https://www.kaust.edu.sa/en/study/faculty/ricardo-henao)        | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)      | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
