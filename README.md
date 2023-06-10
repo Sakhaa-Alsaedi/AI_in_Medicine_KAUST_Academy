@@ -14,4 +14,4 @@
 
 
 ## Useful resources 
-- 
+- [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/)
