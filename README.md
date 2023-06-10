@@ -4,10 +4,10 @@
 
 
 
-| Day | Instructor| TA |Matrials |
+| Day | Instructor| TA |Materials |
 | :---         |     :---:      |          ---: |      ---: |
-| Day 1  | git status     | Sakhaa Alsaedi    | https://github.com/rhenaog/kacademy_kacst_day12
-| Day 2    | git diff       | Sakhaa Alsaedi      |
-| Day 3 | git status     | Sakhaa Alsaedi     |
-| Day 4   | git diff       | Sakhaa Alsaedi |
-| Day 5  | git diff       | Sakhaa Alsaedi |
+| Day 1  | Prof. Ricardo Henao   | Sakhaa Alsaedi    | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
+| Day 2    | Prof. Ricardo Henao        | Sakhaa Alsaedi      | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
+| Day 3 | Dr. Maxat Kulmanov     | Sakhaa Alsaedi     |[Soon]
+| Day 4   | Dr.Senay Kafkas       | Sakhaa Alsaedi |[Soon]
+| Day 5  | Prof. Robert Hoehndorf       | Sakhaa Alsaedi |[Soon]
