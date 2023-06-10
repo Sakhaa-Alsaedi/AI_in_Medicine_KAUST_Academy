@@ -4,7 +4,7 @@
 
 
 
-| Day | Instructor| TA |Materials |
+| Day | Instructor| TA     |Materials |
 | :---         |     :---:      |          ---: |      ---: |
 | Day 1  | Prof. Ricardo Henao   | Sakhaa Alsaedi    | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
 | Day 2    | Prof. Ricardo Henao        | Sakhaa Alsaedi      | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
