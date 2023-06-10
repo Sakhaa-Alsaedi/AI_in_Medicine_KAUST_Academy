@@ -1,7 +1,6 @@
 # AI_in_Medicine_KAUST_Academy
 
-![Uploading Screen Shot 1444-11-21 at 7.08.16 PM.png…]()
-
+![A28B85D0-490A-4E79-9086-728A7852A3CD](https://github.com/Sakhaa-Alsaedi/AI_in_Medicine_KAUST_Academy/assets/42935314/1ba93ee1-92ca-4c37-a8fc-1c36a4bc1db8)
 A course is directed to healthcare professionals and data science practitioners with an interest in understanding
 the applications (state-of-the-art as well as current
 challenges) of AI to concrete problems in medicine.
