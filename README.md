@@ -11,3 +11,7 @@
 | Day 3 | [Dr. Maxat Kulmanov](https://cemse.kaust.edu.sa/people/person/maxat-kulmanov)     | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)     |[Soon]
 | Day 4   | [Dr. Senay Kafkas](https://cemse.kaust.edu.sa/cbrc/people/person/senay-kafkas)       | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) |[Soon]
 | Day 5  | [Prof. Robert Hoehndorf](https://cemse.kaust.edu.sa/cbrc/people/person/robert-hoehndorf)       | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) |[Soon]
+
+
+## Useful resources 
+- 
