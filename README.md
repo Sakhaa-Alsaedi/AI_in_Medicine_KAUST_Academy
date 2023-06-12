@@ -10,7 +10,7 @@
 | Day 2    | [Prof. Ricardo Henao](https://www.kaust.edu.sa/en/study/faculty/ricardo-henao)        | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)      | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
 | Day 3 | [Dr. Maxat Kulmanov](https://cemse.kaust.edu.sa/people/person/maxat-kulmanov)     | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)     |[Soon]
 | Day 4   | [Dr. Senay Kafkas](https://cemse.kaust.edu.sa/cbrc/people/person/senay-kafkas)       | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) |[Soon]
-| Day 5  | [Prof. Robert Hoehndorf](https://cemse.kaust.edu.sa/cbrc/people/person/robert-hoehndorf)       | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) |[Soon]
+| Day 5  | [Prof. Robert Hoehndorf](https://cemse.kaust.edu.sa/cbrc/people/person/robert-hoehndorf)       | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) |[Day 5](https://github.com/leechuck/kacst-day-5)
 
 
 ## Useful resources 
